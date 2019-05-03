@@ -9,9 +9,16 @@ A curated list of Axway API Management awesome things
 
 ### Axway API Management General Resources
 * [Product Documentation](https://docs.axway.com/category/apim)
+* [Axway MarketPlace](https://marketplace.axway.com/productLines/174#!/list/page/1)
+* [Axway Developer Portal](https://developer.axway.com/build-and-manage-apis)
 
 ### API Management DevOps
 #### Best Practices
 
 
-#### DevOps Tools
+#### DevOps Tools Repos
+
+
+### API Management Policy and Filters
+#### Best Practices
+#### Policy & Filter Repos
