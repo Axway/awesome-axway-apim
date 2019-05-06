@@ -19,6 +19,7 @@ A curated list of Axway API Management awesome things
 
 #### DevOps Tools Repos
 * [API Manager (OAS)Swagger promote](https://github.com/Axway-API-Management-Plus/apimanager-swagger-promote)
+* [AMPLIFY API Managemetn Service Broker for Pivotal Cloud Foundry](https://github.com/Axway-API-Management-Plus/Cloud-Foundry-Service-Broker-Sample)
 
 
 ### API Management Policy and Filters
@@ -28,3 +29,12 @@ A curated list of Axway API Management awesome things
 * [PKI Client Mutual Auth](https://github.com/Axway-API-Management-Plus/PKI_Client_Mutual_Auth/)
 * [MFA Authentication with Directory Lookup and JSON user token creation](https://github.com/Axway-API-Management-Plus/MFA_Auth_Directory_Lookup)
 * [Javascript - Sample Random Number Generation](https://github.com/Axway-API-Management-Plus/Random_Number_Generation)
+* [WAF-XSS-Functional-Example](https://github.com/Axway-API-Management-Plus/WAF_XSS_FunctionalExample)
+* [Positive Field Validation Sample Policy](https://github.com/Axway-API-Management-Plus/Positive-Field-Validation)
+* [Policy Schortcut Chain Example](https://github.com/Axway-API-Management-Plus/Positive-Field-Validation)
+* [WS Security User Token and Timestamp Sample](https://github.com/Axway-API-Management-Plus/WSS_UserToken_Timestamp)
+* [Extended Platform Healthcheck Policies for API Management](https://github.com/Axway-API-Management-Plus/WSS_UserToken_Timestamp)
+* [HTTP Status Codes for REST APIs](https://github.com/Axway-API-Management-Plus/HTTP_StatusCodes_Series)
+* [Typing-Based Biometirc Authentication](https://github.com/Axway-API-Management-Plus/Typing-Based-Biometric-Authentication)
+* [RabbitMQ - AMQP Connect](https://marketplace.axway.com/apps/207344/rabbitmq-amqp-policy-filters#!overview)
+
