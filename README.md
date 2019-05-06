@@ -15,8 +15,8 @@ A curated list of Axway API Management awesome things
 * [Community Wiki](https://community.axway.com/s/community-wiki)
 
 ### API Management DevOps
-#### Best Practices
-
+#### Tips and Tricks
+* [Jenkins Getting Started](https://github.com/u1i/jenkins-getting-started)
 
 #### DevOps Tools Repos
 * [API Manager (OAS)Swagger promote](https://github.com/Axway-API-Management-Plus/apimanager-swagger-promote)
@@ -24,7 +24,7 @@ A curated list of Axway API Management awesome things
 
 
 ### API Management Policy and Filters
-#### Best Practices
+#### Tips and Tricks
 #### Policy & Filter Repos
 * [Connect to MS Dynamics CRM](https://github.com/Axway-API-Management-Plus/Connect-to-MS-Dynamics-CRM)
 * [PKI Client Mutual Auth](https://github.com/Axway-API-Management-Plus/PKI_Client_Mutual_Auth/)
