@@ -22,9 +22,7 @@ A curated list of Axway API Management awesome things
 * [API Manager (OAS)Swagger promote](https://github.com/Axway-API-Management-Plus/apimanager-swagger-promote)
 * [AMPLIFY API Managemetn Service Broker for Pivotal Cloud Foundry](https://github.com/Axway-API-Management-Plus/Cloud-Foundry-Service-Broker-Sample)
 
-
 ### API Management Policy and Filters
-#### Tips and Tricks
 #### Policy & Filter Repos
 * [API for Cache Management](https://github.com/Axway-API-Management-Plus/cache-management)
 * [Connect to MS Dynamics CRM](https://github.com/Axway-API-Management-Plus/Connect-to-MS-Dynamics-CRM)
@@ -40,3 +38,6 @@ A curated list of Axway API Management awesome things
 * [Typing-Based Biometirc Authentication](https://github.com/Axway-API-Management-Plus/Typing-Based-Biometric-Authentication)
 * [RabbitMQ - AMQP Connect](https://marketplace.axway.com/apps/207344/rabbitmq-amqp-policy-filters#!overview)
 
+###Service Mesh
+#### Tips and Tricks
+* [Set up minikube in AWS and connect to AMPLIFY Central](https://github.com/asayah/api-central-mesh-aws-ec2-minikube/blob/master/README.md)
