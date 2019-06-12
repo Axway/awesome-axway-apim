@@ -19,8 +19,8 @@ A curated list of Axway API Management awesome things
 * [Jenkins Getting Started](https://github.com/u1i/jenkins-getting-started)
 
 #### DevOps Tools Repos
-* [API Manager (OAS)Swagger promote](https://github.com/Axway-API-Management-Plus/apimanager-swagger-promote)
-* [AMPLIFY API Managemetn Service Broker for Pivotal Cloud Foundry](https://github.com/Axway-API-Management-Plus/Cloud-Foundry-Service-Broker-Sample)
+* [API Manager (OAS) Swagger promote](https://github.com/Axway-API-Management-Plus/apimanager-swagger-promote)
+* [AMPLIFY API Management Service Broker for Pivotal Cloud Foundry](https://github.com/Axway-API-Management-Plus/Cloud-Foundry-Service-Broker-Sample)
 
 ### API Management Policy and Filters
 #### Policy & Filter Repos
@@ -40,4 +40,10 @@ A curated list of Axway API Management awesome things
 
 ### Service Mesh
 #### Tips and Tricks
+* [Basic AWS/EC2 manaul setup steps] (https://github.com/Axway/Setup-Amplify-Mesh-Governance)
 * [Set up minikube in AWS and connect to AMPLIFY Central](https://github.com/asayah/api-central-mesh-aws-ec2-minikube/blob/master/README.md)
+
+### API Builder
+#### Blogs
+* [API Builder: A Simple CI/CD Implementation, Part 1] (https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-1)
+* [API Builder: A Simple CI/CD Implementation, Part 2] (https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-2)
