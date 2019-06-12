@@ -40,10 +40,10 @@ A curated list of Axway API Management awesome things
 
 ### Service Mesh
 #### Tips and Tricks
-* [Basic AWS/EC2 manaul setup steps] (https://github.com/Axway/Setup-Amplify-Mesh-Governance)
+* [Basic AWS/EC2 manaul setup steps](https://github.com/Axway/Setup-Amplify-Mesh-Governance)
 * [Set up minikube in AWS and connect to AMPLIFY Central](https://github.com/asayah/api-central-mesh-aws-ec2-minikube/blob/master/README.md)
 
 ### API Builder
 #### Blogs
-* [API Builder: A Simple CI/CD Implementation, Part 1] (https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-1)
-* [API Builder: A Simple CI/CD Implementation, Part 2] (https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-2)
+* [API Builder: A Simple CI/CD Implementation, Part 1](https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-1)
+* [API Builder: A Simple CI/CD Implementation, Part 2](https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-2)
