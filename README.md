@@ -40,8 +40,10 @@ A curated list of Axway API Management awesome things
 
 ### Service Mesh
 #### Tips and Tricks
-* [Basic AWS/EC2 manaul setup steps](https://github.com/Axway/Setup-Amplify-Mesh-Governance)
+* [Basic AWS/EC2 manual Service Mesh setup steps](https://github.com/Axway/Setup-Amplify-Mesh-Governance)
 * [Set up minikube in AWS and connect to AMPLIFY Central](https://github.com/asayah/api-central-mesh-aws-ec2-minikube/blob/master/README.md)
+* [Generate a trusted cert for your AWS cluster using NoIP](https://github.com/asayah/free-trusted-ca-cert-for-noip.com)
+* [AMPLIFY Central Service Mesh k8s preparation via helm](https://github.com/asayah/Axway-Amplify-Mesh-Init/)
 
 ### API Builder
 #### Blogs
