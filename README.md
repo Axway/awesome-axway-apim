@@ -24,6 +24,7 @@ A curated list of Axway API Management awesome things
 
 ### API Management Policy and Filters
 #### Policy & Filter Repos
+* [Circuit-Breaker-Sample](https://github.com/Axway-API-Management-Plus/Circuit-Breaker-Sample)
 * [API for Cache Management](https://github.com/Axway-API-Management-Plus/cache-management)
 * [Connect to MS Dynamics CRM](https://github.com/Axway-API-Management-Plus/Connect-to-MS-Dynamics-CRM)
 * [PKI Client Mutual Auth](https://github.com/Axway-API-Management-Plus/PKI_Client_Mutual_Auth/)
