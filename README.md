@@ -38,6 +38,7 @@ A curated list of Axway API Management awesome things
 * [HTTP Status Codes for REST APIs](https://github.com/Axway-API-Management-Plus/HTTP_StatusCodes_Series)
 * [Typing-Based Biometirc Authentication](https://github.com/Axway-API-Management-Plus/Typing-Based-Biometric-Authentication)
 * [RabbitMQ - AMQP Connect](https://marketplace.axway.com/apps/207344/rabbitmq-amqp-policy-filters#!overview)
+* [AWS Lambda Filter](https://github.com/Axway-API-Management-Plus/aws-lambda-apim-sdk)
 
 ### Service Mesh
 #### Tips and Tricks
@@ -50,4 +51,4 @@ A curated list of Axway API Management awesome things
 #### Blogs
 * [API Builder: A Simple CI/CD Implementation, Part 1](https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-1)
 * [API Builder: A Simple CI/CD Implementation, Part 2](https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-2)
-* [Publishing API Builder Docker images on AMPLIFY Runtime Services (ARS)](https://devblog.axway.com/apis/publish-api-builder-docker-image-amplify-runtime-services/)* 
+* [Publishing API Builder Docker images on AMPLIFY Runtime Services (ARS)](https://devblog.axway.com/apis/publish-api-builder-docker-image-amplify-runtime-services/) 
