@@ -43,12 +43,19 @@ A curated list of Axway API Management awesome things
 * [RabbitMQ - AMQP Connect](https://marketplace.axway.com/apps/207344/rabbitmq-amqp-policy-filters#!overview)
 * [AWS Lambda Filter](https://github.com/Axway-API-Management-Plus/aws-lambda-apim-sdk)
 
-### Service Mesh
+### AMPLIFY Central detailed configuration or usage
+#### Tips and Tricks
+* [Axway Open Documentation - published](https://axway-open-docs.netlify.com/docs/central)
+* [Axway Open Documentation - repo](https://github.com/Axway/axway-open-docs)
+* [Setup Central backend Basic Auth](https://github.com/Axway/Amplify-Setup-Backend-BasicAuth)
+
+### Service Mesh / Mesh Governance resources
 #### Tips and Tricks
 * [Basic AWS/EC2 manual Service Mesh setup steps](https://github.com/Axway/Setup-Amplify-Mesh-Governance)
 * [Set up minikube in AWS and connect to AMPLIFY Central](https://github.com/asayah/api-central-mesh-aws-ec2-minikube/blob/master/README.md)
 * [Generate a trusted cert for your AWS cluster using NoIP](https://github.com/asayah/free-trusted-ca-cert-for-noip.com)
 * [AMPLIFY Central Service Mesh k8s preparation via helm](https://github.com/asayah/Axway-Amplify-Mesh-Init/)
+* [Setup Mesh Governanace on GCE](https://github.com/Axway/Setup-Amplify-Mesh-Governance-GCE)
 
 ### API Builder
 #### Blogs
