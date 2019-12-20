@@ -62,4 +62,4 @@ A curated list of Axway API Management awesome things
 * [API Builder: A Simple CI/CD Implementation, Part 1](https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-1)
 * [API Builder: A Simple CI/CD Implementation, Part 2](https://dzone.com/articles/api-builder-a-simple-cicd-implementation-part-2)
 * [Publishing API Builder Docker images on AMPLIFY Runtime Services (ARS)](https://devblog.axway.com/apis/publish-api-builder-docker-image-amplify-runtime-services/) 
-* [API Builder YouTube channel of tips and tricks] (https://www.youtube.com/playlist?list=PL1MSJ8ihsw8p5CIZE7HosdrQSUE86wOp5)
+* [API Builder YouTube channel of tips and tricks](https://www.youtube.com/playlist?list=PL1MSJ8ihsw8p5CIZE7HosdrQSUE86wOp5)
