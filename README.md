@@ -14,6 +14,7 @@ A curated list of Axway API Management awesome things
 * [Axway Developer Portal](https://developer.axway.com/build-and-manage-apis)
 * [Community Wiki](https://community.axway.com/s/community-wiki)
 * [Axway API OpenDocs Repo (New)](https://github.com/Axway/axway-open-docs)
+* [Axway API Management YouTube channel - v7, Builder and Central](https://www.youtube.com/channel/UCsRNLDnXvgtz6qsleSlVcqQ)
 
 ### API Management DevOps
 #### Tips and Tricks
