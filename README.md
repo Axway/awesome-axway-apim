@@ -57,7 +57,7 @@ A curated list of Axway API Management awesome things
 * [Generate a trusted cert for your AWS cluster using NoIP](https://github.com/asayah/free-trusted-ca-cert-for-noip.com)
 * [AMPLIFY Central Service Mesh k8s preparation via helm](https://github.com/asayah/Axway-Amplify-Mesh-Init/)
 * [Setup Mesh Governanace on GCE](https://github.com/Axway/Setup-Amplify-Mesh-Governance-GCE)
-* [Client images for CLI usage](https://github.com/u1i/amplify-cli)
+* [Client image already setup for CLI usage](https://github.com/u1i/amplify-cli)
 
 ### API Builder
 #### Blogs
