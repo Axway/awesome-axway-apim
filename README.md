@@ -44,11 +44,14 @@ A curated list of Axway API Management awesome things
 * [RabbitMQ - AMQP Connect](https://marketplace.axway.com/apps/207344/rabbitmq-amqp-policy-filters#!overview)
 * [AWS Lambda Filter](https://github.com/Axway-API-Management-Plus/aws-lambda-apim-sdk)
 
-### AMPLIFY Central detailed configuration or usage
+### AMPLIFY Central
 #### Tips and Tricks
-* [Axway Open Documentation - published](https://axway-open-docs.netlify.com/docs/central)
-* [Axway Open Documentation - repo](https://github.com/Axway/axway-open-docs)
+* [Product Documentation](https://axway-open-docs.netlify.com/docs/central)
+* [Contribute to documentation](https://github.com/Axway/axway-open-docs)
 * [Setup Central backend Basic Auth](https://github.com/Axway/Amplify-Setup-Backend-BasicAuth)
+
+### Unified Catalog
+* [Automate the discovery of integration assets and APIs across environments (Azure, Apigee, Mulesoft, Github, SwaggerHub etc.](https://github.com/Axway/unified-catalog-integrations)
 
 ### Service Mesh / Mesh Governance resources
 #### Tips and Tricks
