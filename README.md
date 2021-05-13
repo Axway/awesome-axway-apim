@@ -10,9 +10,7 @@ A curated list of Axway API Management awesome things
 ### Axway API Management General Resources
 * [Product Documentation](https://docs.axway.com/category/apim)
 * [Axway Developer Blog](https://devblog.axway.com/)
-* [Axway MarketPlace](https://marketplace.axway.com/productLines/174#!/list/page/1)
-* [Axway Developer Portal](https://developer.axway.com/build-and-manage-apis)
-* [Community Wiki](https://community.axway.com/s/community-wiki)
+* [Axway Repository](https://repository.axway.com/product-extensions?product=324,545)
 * [Axway API OpenDocs Repo (New)](https://github.com/Axway/axway-open-docs)
 * [Axway API Management YouTube channel - v7, Builder and Central](https://www.youtube.com/channel/UCsRNLDnXvgtz6qsleSlVcqQ)
 
