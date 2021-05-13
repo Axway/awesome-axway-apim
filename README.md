@@ -23,6 +23,7 @@ A curated list of Axway API Management awesome things
 
 ### API Management Policy and Filters
 #### Policy & Filter Repos
+* [Sample API Gateway Scripts](https://github.com/mvenzke-axway/api_gateway_scripts)
 * [Circuit-Breaker-Sample](https://github.com/Axway-API-Management-Plus/Circuit-Breaker-Sample)
 * [PingIntelligence Policy](https://github.com/Axway-API-Management-Plus/Axway-PingIntelligence-integration-policies)
 * [API for Cache Management](https://github.com/Axway-API-Management-Plus/cache-management)
