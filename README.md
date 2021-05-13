@@ -17,6 +17,7 @@ A curated list of Axway API Management awesome things
 * [Jenkins Getting Started](https://github.com/u1i/jenkins-getting-started)
 
 #### DevOps Tools Repos
+* [API Management CLI](https://github.com/Axway-API-Management-Plus/apim-cli)
 * [API Manager (OAS) Swagger promote](https://github.com/Axway-API-Management-Plus/apimanager-swagger-promote)
 * [Maven plugin for Axway API Gateway/Manager development](https://github.com/Axway-API-Management-Plus/apigw-maven-plugin)
 * [AMPLIFY API Management Service Broker for Pivotal Cloud Foundry](https://github.com/Axway-API-Management-Plus/Cloud-Foundry-Service-Broker-Sample)
