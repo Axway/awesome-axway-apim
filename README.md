@@ -22,7 +22,9 @@ A curated list of Axway API Management awesome things
 * [Maven plugin for Axway API Gateway/Manager development](https://github.com/Axway-API-Management-Plus/apigw-maven-plugin)
 * [AMPLIFY API Management Service Broker for Pivotal Cloud Foundry](https://github.com/Axway-API-Management-Plus/Cloud-Foundry-Service-Broker-Sample)
 
-### API Management Policy and Filters
+### API Management General
+#### Performance & Analytics
+* [Traffic Monitor on Elastic Stack](https://github.com/Axway-API-Management-Plus/apigateway-openlogging-elk)
 #### Policy & Filter Repos
 * [Sample API Gateway Scripts](https://github.com/mvenzke-axway/api_gateway_scripts)
 * [Circuit-Breaker-Sample](https://github.com/Axway-API-Management-Plus/Circuit-Breaker-Sample)
